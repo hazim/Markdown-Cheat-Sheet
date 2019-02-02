@@ -1,9 +1,8 @@
-# Markdown Basics
+# Markdown Basics Cheat Sheet 
 
 ## Headlines, Paragraphs and Basic Formatting 
 
-### Headlines
-
+### Headlines Level 3
 #### Headline Level 4
 ##### Headline Level 5 
 ###### Headline Level 6 
@@ -45,7 +44,6 @@ This ***works*** and this ____works____ too.
 ### Horizontal Ruke
 
 ---
-
 ___
 
 ***
