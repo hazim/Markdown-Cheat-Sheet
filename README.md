@@ -108,11 +108,11 @@ let exampleFunction = () => {
 
 ## Further Useful Markdown Reading 
 
-[CommonMark](https://commonmark.org/)
-[Blog in Markdown](https://mediatemple.net/blog/tips/you-should-probably-blog-in-markdown/)
-[Daring Fireball](https://daringfireball.net/projects/markdown/)
-[Choosing the Right Markdown Parser](https://css-tricks.com/choosing-right-markdown-parser/)
-[GitHub Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+[CommonMark](https://commonmark.org/)  
+[Blog in Markdown](https://mediatemple.net/blog/tips/you-should-probably-blog-in-markdown/)  
+[Daring Fireball](https://daringfireball.net/projects/markdown/)  
+[Choosing the Right Markdown Parser](https://css-tricks.com/choosing-right-markdown-parser/)  
+[GitHub Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
 
 ## Markdown Tools
 [StackEdit](https://stackedit.io/)
