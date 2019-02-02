@@ -115,7 +115,7 @@ let exampleFunction = () => {
 [GitHub Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
 
 ## Markdown Tools
-[StackEdit](https://stackedit.io/)
-[Dillinger](https://dillinger.io/)
-[Babelmark 2](https://johnmacfarlane.net/babelmark2/)
+[StackEdit](https://stackedit.io/)  
+[Dillinger](https://dillinger.io/)  
+[Babelmark 2](https://johnmacfarlane.net/babelmark2/)  
 
